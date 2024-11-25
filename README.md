@@ -20,7 +20,9 @@ Ensure you have the following installed:
     - pillow
     - opencv-python
 
-You can install the dependencies using the following command (windows): pip install -r requirements.txt 
+You can install the dependencies using the following command (windows): 
+
+pip install -r requirements.txt 
 
 ## Usage
 ### Step 1: Run the Script
