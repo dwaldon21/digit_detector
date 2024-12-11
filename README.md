@@ -20,9 +20,6 @@ pip install -r requirements.txt
 ## Usage
 ### Step 1: Run the Script
 Execute the Python script to launch the GUI:
-
-bash
-Copy code
 python digit_recognition.py
 ### Step 2: Draw a Digit
 Use your mouse to draw a digit on the canvas.
