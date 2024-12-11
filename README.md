@@ -12,13 +12,6 @@
 Ensure you have the following installed:
 
 - Python 3.8 or higher
-- Required Python libraries:
-    - numpy
-    - tensorflow
-    - matplotlib
-    - scikit-learn
-    - pillow
-    - opencv-python
 
 You can install the dependencies using the following command (windows): 
 
